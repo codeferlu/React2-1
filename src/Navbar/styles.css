@@ -7,8 +7,8 @@
   width: 100%;
   top: 0;
   background-color: #ffffff; 
-  z-index: 1000; /* Asegura que esté por encima de otros elementos */
-  padding: 10px; /* Ajusta el espaciado según sea necesario */
+  z-index: 1000; 
+  padding: 10px; 
   list-style: none;
   }
 
@@ -21,8 +21,8 @@
   width: 100%;
   top: 0;
   background-color: #ffffff; 
-  z-index: 1000; /* Asegura que esté por encima de otros elementos */
-  padding: 10px; /* Ajusta el espaciado según sea necesario */
+  z-index: 1000; 
+  padding: 10px; 
   list-style: none;
   }
   
