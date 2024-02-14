@@ -1,0 +1,12 @@
+.app-container {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh; /* Ocupa toda la altura de la pantalla */
+  }
+  
+  .content-container {
+  
+    align-items: center; /* Centra verticalmente */
+  }
+  
